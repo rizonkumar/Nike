@@ -134,14 +134,14 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "customer@nike.in", link: "mailto:customer@nike.in" },
+      { name: "+91 9092704251", link: "tel:+919092704251" },
     ],
   },
 ];
 
 export const socialMedia = [
-  { src: facebook, alt: "facebook logo" },
-  { src: twitter, alt: "twitter logo" },
-  { src: instagram, alt: "instagram logo" },
+  { src: facebook, alt: "facebook logo", link:"https://facebook.com/your.rizonkumarrahi"},
+  { src: twitter, alt: "twitter logo", link:"https://twitter.com/RizonKumar" },
+  { src: instagram, alt: "instagram logo", link:"https://www.instagram.com/rizon__kumar/" },
 ];
